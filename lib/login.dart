@@ -53,7 +53,8 @@ class _MyLoginState extends State<MyLogin> {
                     fontWeight: FontWeight.w400,
                   ),
                 ),
-                SizedBox(height: 30),
+                SizedBox(height: 15),
+                SizedBox(height: 15),
 
                 /* -- Section-2 -- */
                 Form(
